@@ -27,3 +27,4 @@ else
     printf("\n not Armstrong Number");
 }
 }
+//tehrherhdhd
